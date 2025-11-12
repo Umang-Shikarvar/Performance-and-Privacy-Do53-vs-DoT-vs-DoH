@@ -1,0 +1,3 @@
+dataset,total_rows,success,timeout,error,success_rate_pct,rtt_p50_ms,rtt_p90_ms,rtt_p95_ms,rtt_p99_ms,bytes_out_p50,bytes_in_p50,rcode_counts
+dns_cf_do53.csv,50,49,1,0,98.0,53.447,554.282,1030.154,2233.159,41.0,99.0,"{3: 42, 0: 6, 2: 1}"
+dns_cf_do53_top.csv,50,50,0,0,100.0,27.754,47.903,52.633,140.962,42.0,105.5,"{3: 38, 0: 11, 2: 1}"

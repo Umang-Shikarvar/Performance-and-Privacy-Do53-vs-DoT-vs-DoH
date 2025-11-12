@@ -1,0 +1,52 @@
+timestamp_utc            , domain                   , protocol, status , rcode, tls_version, cipher_suite          , tcp_connect_ms, tls_handshake_ms, query_rtt_ms, bytes_out, bytes_in
+2025-11-12T01:00:03+00:00, www.ex.co                , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         16.505,          156.91 ,      149.177,        29,       97
+2025-11-12T01:00:03+00:00, www.org.ru               , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         30.544,          167.306,     1586.095,        30,       46
+2025-11-12T01:00:05+00:00, www.panasonic.com        , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         26.354,          176.552,       63.553,        37,      129
+2025-11-12T01:00:05+00:00, www.yotpo.com            , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         27.004,          170.403,      112.154,        33,      139
+2025-11-12T01:00:05+00:00, www.pphosted.com         , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         15.419,          161.026,       62.591,        36,       86
+2025-11-12T01:00:06+00:00, www.parsely.com          , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         27.53 ,          163.845,       87.33 ,        35,       71
+2025-11-12T01:00:06+00:00, www.comodoca.com         , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         45.269,          165.897,       37.882,        36,      117
+2025-11-12T01:00:06+00:00, www.topdns.com           , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         13.6  ,          185.929,       19.559,        34,       87
+2025-11-12T01:00:07+00:00, www.icndns.net           , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         36.124,          159.962,      493.421,        34,      101
+2025-11-12T01:00:07+00:00, www.kpmg.com             , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         14.306,          169.802,      150.946,        32,      136
+2025-11-12T01:00:08+00:00, www.fortinet.com         , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         13.741,          163.84 ,       47.811,        36,      149
+2025-11-12T01:00:08+00:00, www.saby.ru              , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         22.003,          156.96 ,      834.49 ,        31,       61
+2025-11-12T01:00:09+00:00, www.miitbeian.gov.cn     , DoT     , SUCCESS,     2, TLSv1.3    , TLS_AES_256_GCM_SHA384,         62.247,          176.053,     2194.08 ,        40,       40
+2025-11-12T01:00:11+00:00, www.cpan.org             , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         30.348,          155.35 ,       42.381,        32,      143
+2025-11-12T01:00:12+00:00, www.dmoz.org             , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         19.117,          163.263,       47.456,        32,      112
+2025-11-12T01:00:12+00:00, www.consumerreports.org  , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         48.031,          162.824,       92.91 ,        43,      107
+2025-11-12T01:00:12+00:00, www.intercomcdn.com      , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         12.979,          159.058,       57.81 ,        39,      121
+2025-11-12T01:00:12+00:00, www.bunny.net            , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         20.658,          168.712,       45.593,        33,       49
+2025-11-12T01:00:13+00:00, www.tsinghua.edu.cn      , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         15.482,          154.981,       50.086,        39,       55
+2025-11-12T01:00:13+00:00, www.aliexpress-media.com , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         30.403,          162.054,      485.717,        44,      106
+2025-11-12T01:00:14+00:00, www.ctrip.com            , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         18.432,          173.537,      565.337,        33,      174
+2025-11-12T01:00:14+00:00, www.appdomain.cloud      , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         33.06 ,          166.374,       66.329,        39,      114
+2025-11-12T01:00:15+00:00, www.weplayapp.com        , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         29.716,          165.524,      162.778,        37,      144
+2025-11-12T01:00:15+00:00, www.uspto.gov            , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         18.332,          164.403,       60.898,        33,      140
+2025-11-12T01:00:15+00:00, www.navy.mil             , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         18.0  ,          157.828,      169.938,        32,      123
+2025-11-12T01:00:16+00:00, www.bigolive.tv          , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         19.036,          160.848,       78.527,        35,       97
+2025-11-12T01:00:16+00:00, www.ning.com             , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         21.898,          154.798,       47.515,        32,       48
+2025-11-12T01:00:16+00:00, www.qianxun.com          , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         23.699,          156.404,      543.976,        35,       51
+2025-11-12T01:00:17+00:00, www.msi.com              , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         15.574,          153.378,      148.87 ,        31,      144
+2025-11-12T01:00:17+00:00, www.myanimelist.net      , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         27.113,          162.875,      302.51 ,        39,       71
+2025-11-12T01:00:18+00:00, www.apptentive.com       , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         19.576,          160.071,       40.911,        38,       54
+2025-11-12T01:00:18+00:00, www.mosyle.com           , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         27.236,          187.028,      428.985,        34,       64
+2025-11-12T01:00:19+00:00, www.crunchbase.com       , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         13.125,          167.603,       33.392,        38,       70
+2025-11-12T01:00:19+00:00, www.rs6.net              , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         13.247,          172.581,       54.176,        31,       47
+2025-11-12T01:00:19+00:00, www.sharepointonline.com , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         14.537,          156.179,       35.27 ,        44,       74
+2025-11-12T01:00:19+00:00, www.hola.org             , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         26.261,          153.971,       54.446,        32,       78
+2025-11-12T01:00:20+00:00, www.calameo.com          , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         26.181,          194.337,       33.144,        35,       51
+2025-11-12T01:00:20+00:00, www.samba.tv             , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         34.842,          164.185,       54.789,        32,      145
+2025-11-12T01:00:20+00:00, www.iikoweb.eu           , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         12.937,          161.512,       44.074,        34,       50
+2025-11-12T01:00:20+00:00, www.cpi.ad.jp            , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         27.628,          153.84 ,      536.573,        33,       80
+2025-11-12T01:00:21+00:00, www.register.com         , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         23.636,          174.988,       63.086,        36,       68
+2025-11-12T01:00:21+00:00, www.acuityplatform.com   , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         25.152,          154.708,      126.575,        42,       58
+2025-11-12T01:00:22+00:00, www.tiktokglobalshopv.com, DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         45.114,          184.733,      158.958,        45,      107
+2025-11-12T01:00:22+00:00, www.anthropic.com        , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         29.09 ,          250.605,       47.278,        37,       53
+2025-11-12T01:00:22+00:00, www.thoughtco.com        , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         13.658,          184.461,       41.868,        37,       69
+2025-11-12T01:00:23+00:00, www.aibixby.com          , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         53.109,          172.612,       49.038,        35,      119
+2025-11-12T01:00:23+00:00, www.ifood.com.br         , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         16.599,          155.656,      110.375,        36,      147
+2025-11-12T01:00:23+00:00, www.edu-servers.net      , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         19.135,          158.299,      326.146,        39,      107
+2025-11-12T01:00:24+00:00, www.mimecast.com         , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         14.169,          158.104,     1015.329,        36,      242
+2025-11-12T01:00:25+00:00, www.tvinteractive.tv     , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         15.013,          162.647,       52.859,        40,       70
+

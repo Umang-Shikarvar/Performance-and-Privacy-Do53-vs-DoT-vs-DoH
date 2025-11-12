@@ -1,0 +1,51 @@
+timestamp_utc            , domain                                  , protocol, status , rcode, tls_version, cipher_suite          , tcp_connect_ms, tls_handshake_ms, query_rtt_ms, bytes_out, bytes_in
+2025-11-12T00:59:29+00:00, www.mail.ru                             , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         19.144,          161.86 ,      419.351,        31,       63
+2025-11-12T00:59:30+00:00, www.microsoft.com                       , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         28.691,          168.606,       60.754,        37,      204
+2025-11-12T00:59:30+00:00, www.facebook.com                        , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         14.725,          154.259,       55.183,        36,       81
+2025-11-12T00:59:30+00:00, www.cloudflare.com                      , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         29.681,          177.805,       59.409,        38,       70
+2025-11-12T00:59:31+00:00, www.dzen.ru                             , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         15.155,          185.574,      434.798,        31,       63
+2025-11-12T00:59:31+00:00, www.amazonaws.com                       , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         23.702,          155.171,       42.179,        37,       82
+2025-11-12T00:59:31+00:00, www.googleapis.com                      , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         36.403,          168.496,       61.614,        38,      294
+2025-11-12T00:59:32+00:00, www.youtube.com                         , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         20.614,          166.605,       44.185,        35,      325
+2025-11-12T00:59:32+00:00, www.apple.com                           , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         21.459,          154.169,       36.503,        33,      163
+2025-11-12T00:59:32+00:00, www.instagram.com                       , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         13.387,          157.082,       72.447,        37,       88
+2025-11-12T00:59:32+00:00, www.gstatic.com                         , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         48.257,          160.915,       35.657,        35,       51
+2025-11-12T00:59:33+00:00, www.office.com                          , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         13.951,          192.751,       56.581,        34,      142
+2025-11-12T00:59:33+00:00, www.twitter.com                         , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         21.529,          156.179,       35.58 ,        35,       65
+2025-11-12T00:59:33+00:00, www.live.com                            , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         43.163,          182.266,       56.35 ,        32,      111
+2025-11-12T00:59:33+00:00, www.akamai.net                          , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         18.28 ,          175.26 ,      106.511,        34,      111
+2025-11-12T00:59:34+00:00, www.gtld-servers.net                    , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         25.149,          163.347,      454.432,        40,      108
+2025-11-12T00:59:34+00:00, www.linkedin.com                        , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         25.852,          157.416,       55.532,        36,      139
+2025-11-12T00:59:35+00:00, www.14emeliaterracewestroxburyma02132.su, DoT     , SUCCESS,     2, TLSv1.3    , TLS_AES_256_GCM_SHA384,         12.68 ,          156.55 ,      838.478,        60,       60
+2025-11-12T00:59:36+00:00, www.googlevideo.com                     , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         18.537,          158.061,       46.58 ,        39,       55
+2025-11-12T00:59:36+00:00, www.googletagmanager.com                , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         16.156,          161.132,       49.008,        44,       60
+2025-11-12T00:59:36+00:00, www.akamaiedge.net                      , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         22.656,          179.08 ,       74.167,        38,      104
+2025-11-12T00:59:37+00:00, www.fbcdn.net                           , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         28.588,          187.452,      159.462,        33,      108
+2025-11-12T00:59:37+00:00, www.amazon.com                          , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         20.813,          163.026,       51.674,        34,      129
+2025-11-12T00:59:37+00:00, www.akadns.net                          , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         25.483,          152.091,      149.49 ,        34,      100
+2025-11-12T00:59:38+00:00, www.microsoftonline.com                 , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         33.692,          169.825,       59.511,        43,      127
+2025-11-12T00:59:38+00:00, www.workers.dev                         , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         24.678,          165.647,       89.745,        35,       67
+2025-11-12T00:59:38+00:00, www.windowsupdate.com                   , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         26.435,          163.399,       65.931,        41,      164
+2025-11-12T00:59:38+00:00, www.doubleclick.net                     , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         16.606,          163.149,       40.611,        39,       55
+2025-11-12T00:59:39+00:00, www.azure.com                           , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         19.1  ,          152.927,       59.316,        33,      140
+2025-11-12T00:59:39+00:00, www.wikipedia.org                       , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         13.525,          163.101,       40.714,        37,       82
+2025-11-12T00:59:39+00:00, www.googleusercontent.com               , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         27.721,          302.875,       58.622,        45,       90
+2025-11-12T00:59:39+00:00, www.github.com                          , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         18.515,          156.849,      155.06 ,        34,       64
+2025-11-12T00:59:40+00:00, www.bing.com                            , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         19.423,          154.407,       44.661,        32,      185
+2025-11-12T00:59:40+00:00, www.ax-msedge.net                       , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         35.799,          155.436,       45.79 ,        37,       97
+2025-11-12T00:59:40+00:00, www.t-msedge.net                        , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         24.897,          156.898,       45.583,        36,       96
+2025-11-12T00:59:41+00:00, www.digicert.com                        , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         14.943,          158.18 ,       46.584,        36,       88
+2025-11-12T00:59:41+00:00, www.whatsapp.net                        , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         25.432,          163.654,       44.439,        36,       81
+2025-11-12T00:59:41+00:00, www.fastly.net                          , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         15.045,          159.382,       70.643,        34,      112
+2025-11-12T00:59:41+00:00, www.office.net                          , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         21.764,          160.283,       56.042,        34,      150
+2025-11-12T00:59:42+00:00, www.wordpress.org                       , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         32.182,          154.385,       49.602,        37,       67
+2025-11-12T00:59:42+00:00, www.netflix.com                         , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         28.316,          165.262,       45.019,        35,      228
+2025-11-12T00:59:42+00:00, www.e2ro.com                            , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         20.881,          176.8  ,      123.653,        32,      114
+2025-11-12T00:59:42+00:00, www.domaincontrol.com                   , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         33.329,          179.89 ,      134.766,        41,       96
+2025-11-12T00:59:43+00:00, www.youtu.be                            , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         37.15 ,          159.453,       51.253,        32,       92
+2025-11-12T00:59:43+00:00, www.apple-dns.net                       , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         22.491,          165.051,       55.286,        37,      115
+2025-11-12T00:59:43+00:00, www.appsflyersdk.com                    , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         36.729,          156.593,       50.701,        40,      104
+2025-11-12T00:59:44+00:00, www.pinterest.com                       , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         16.122,          170.902,       58.801,        37,      200
+2025-11-12T00:59:44+00:00, www.aaplimg.com                         , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         18.234,          162.369,       56.845,        35,      110
+2025-11-12T00:59:44+00:00, www.icloud.com                          , DoT     , SUCCESS,     0, TLSv1.3    , TLS_AES_256_GCM_SHA384,         29.94 ,          165.321,       49.595,        34,      169
+2025-11-12T00:59:44+00:00, www.googlesyndication.com               , DoT     , SUCCESS,     3, TLSv1.3    , TLS_AES_256_GCM_SHA384,         17.47 ,          156.351,       51.121,        45,      102
