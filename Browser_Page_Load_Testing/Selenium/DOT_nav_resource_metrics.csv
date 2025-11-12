@@ -1,0 +1,11 @@
+timestamp,url,run,status,wall_time_s,dns_ms,tcp_ms,tls_ms,request_ms,response_ms,dom_content_loaded_ms,load_event_ms,total_ms,num_requests,total_bytes_in,unknown_size_count,num_cross_origin_size_hidden,raw_resource_count_reported
+2025-11-12T14:15:43,https://scholar.google.com/,1,SUCCESS,4.567,0.0,1274.0,298.0,1814.0,0.0,3519.0,3522.0,3522.0,5,36570,0,0,5
+2025-11-12T14:16:00,https://www.netflix.com/in/,1,SUCCESS,17.037,0.0,1926.0,514.0,694.0,0.0,3894.0,15996.0,15996.0,45,1489589,17,17,45
+2025-11-12T14:16:04,https://www.wikipedia.org/,1,SUCCESS,4.19,0.0,1478.0,327.0,255.0,0.0,2210.0,3135.0,3135.0,8,63441,0,0,8
+2025-11-12T14:16:07,https://www.google.com/,1,SUCCESS,2.61,0.0,294.0,234.0,364.0,0.0,1213.0,1567.0,1567.0,36,1014752,8,8,36
+2025-11-12T14:16:13,https://www.internetsociety.org/,1,SUCCESS,6.515,0.0,783.0,39.0,1450.0,0.0,3559.0,5489.0,5489.0,52,1061915,16,16,52
+2025-11-12T14:16:26,https://iitgn.ac.in/,1,SUCCESS,12.917,0.0,5807.0,245.0,41.0,129.0,8522.0,11848.0,11848.0,88,5212769,13,13,88
+2025-11-12T14:16:30,https://github.com/,1,SUCCESS,4.243,0.0,603.0,211.0,36.0,0.0,2243.0,3187.0,3187.0,140,33570,16,16,140
+2025-11-12T14:16:37,https://www.amazon.com/,1,SUCCESS,6.98,0.0,2546.0,227.0,702.0,0.0,5800.0,5919.0,5919.0,261,519377,0,0,261
+2025-11-12T14:16:56,https://www.nationalgeographic.com/,1,SUCCESS,19.024,0.0,1090.0,234.0,326.0,0.0,5738.0,17951.0,17951.0,242,4221,216,216,242
+2025-11-12T14:17:03,https://example.com/,1,SUCCESS,6.901,0.0,3486.0,873.0,2223.0,0.0,5830.0,5831.0,5831.0,0,0,0,0,0
