@@ -1,16 +1,3 @@
-#!/usr/bin/env python3
-"""
-dns_client_logged.py — Unified Log Format
------------------------------------------
-DNS-over-UDP client (for direct comparison with DoT/DoH/TLS logs).
-
-✅ Uses same JSON fields as DoT/DoH clients:
-    - tcp_handshake_ms, tls_handshake_ms, query_time_ms, total_time_ms
-    - bytes_sent, bytes_recv, total_bytes
-✅ Logs timestamp, domain, and status
-✅ Compatible with plotting scripts
-"""
-
 import socket
 import time
 import json
