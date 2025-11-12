@@ -1,4 +1,3 @@
-# tls12_server_resolver.py
 import socket, threading, os, struct, json, binascii, time
 from dnslib import DNSRecord, RR, QTYPE, RCODE, A, DNSHeader
 from cryptography.hazmat.primitives import serialization, hashes, constant_time
