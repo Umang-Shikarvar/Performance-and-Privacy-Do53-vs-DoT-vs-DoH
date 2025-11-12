@@ -1,15 +1,3 @@
-#!/usr/bin/env python3
-"""
-dns_server_threaded_nocache.py
-
-Concurrent UDP DNS resolver with iterative resolution (via utils.py),
-but **without caching** — designed for low-latency benchmarking when
-the local listener already has a cache.
-
-This is functionally equivalent to the cached version except that
-all cache-related code and locks have been removed.
-"""
-
 import socket, threading, time
 from dnslib import DNSRecord, DNSHeader, RCODE
 from utils import perform_iterative_resolution, save_log_json
